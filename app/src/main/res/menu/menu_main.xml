@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    action_settings
+    <item android:id="@+id/update_menu" android:title="Update Account">
+    </item>
+
+    <item android:id="@+id/delete_account" android:title="Delete Account">
+    </item>
+
+    <item android:id="@+id/locate_blood" android:title="Blood Banks">
+    </item>
+
+    <item android:id="@+id/action_settings" android:title="About Developers">
+    </item>
+
+</menu>
